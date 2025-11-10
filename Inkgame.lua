@@ -101,7 +101,7 @@ InfoLabel.Size = UDim2.new(1, -40, 0, 80)
 InfoLabel.Position = UDim2.new(0, 20, 0, 75)
 InfoLabel.BackgroundTransparency = 1
 InfoLabel.Font = Enum.Font.Gotham
-InfoLabel.Text = "Join our Discord server to get the script!\n\nScript is available exclusively on our Discord community."
+InfoLabel.Text = "Join our Discord server to get the script!."
 InfoLabel.TextColor3 = Color3.fromRGB(160, 160, 170)
 InfoLabel.TextSize = 13
 InfoLabel.TextWrapped = true
@@ -136,7 +136,7 @@ StatusLabel.TextSize = 11
 StatusLabel.Parent = MainFrame
 
 -- Configuration
-local DISCORD_INVITE = "https://discord.gg/pD4WM5rx"
+local DISCORD_INVITE = "https://discord.gg/wkN7QM4r"
 
 -- Dragging functionality
 local UIS = game:GetService("UserInputService")
