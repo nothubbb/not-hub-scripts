@@ -217,7 +217,7 @@ end
 DiscordButton.MouseButton1Click:Connect(function()
     if DISCORD_INVITE then
         setclipboard(DISCORD_INVITE)
-        updateStatus("New script link copied.", Color3.fromRGB(88, 101, 242))
+        updateStatus("New script link copied paste in a browser to get the script.", Color3.fromRGB(88, 101, 242))
         
         if syn and syn.request then
             syn.request({
