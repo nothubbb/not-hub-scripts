@@ -101,7 +101,7 @@ InfoLabel.Size = UDim2.new(1, -40, 0, 80)
 InfoLabel.Position = UDim2.new(0, 20, 0, 75)
 InfoLabel.BackgroundTransparency = 1
 InfoLabel.Font = Enum.Font.Gotham
-InfoLabel.Text = "New script is available click on the button below to get the new script."
+InfoLabel.Text = "Join the discord to get the script"
 InfoLabel.TextColor3 = Color3.fromRGB(160, 160, 170)
 InfoLabel.TextSize = 13
 InfoLabel.TextWrapped = true
@@ -115,7 +115,7 @@ DiscordButton.Position = UDim2.new(0, 20, 0, 175)
 DiscordButton.BackgroundColor3 = Color3.fromRGB(88, 101, 242)
 DiscordButton.BorderSizePixel = 0
 DiscordButton.Font = Enum.Font.GothamBold
-DiscordButton.Text = "GET THE NEW SCRIPT"
+DiscordButton.Text = "JOIN DISCORD"
 DiscordButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 DiscordButton.TextSize = 14
 DiscordButton.Parent = MainFrame
@@ -136,7 +136,7 @@ StatusLabel.TextSize = 11
 StatusLabel.Parent = MainFrame
 
 -- Configuration
-local DISCORD_INVITE = "https://work.ink/28lR/nothub"
+local DISCORD_INVITE = "https://discord.gg/Phsvxa4t"
 
 -- Dragging functionality
 local UIS = game:GetService("UserInputService")
