@@ -136,7 +136,7 @@ StatusLabel.TextSize = 11
 StatusLabel.Parent = MainFrame
 
 -- Configuration
-local DISCORD_INVITE = "https://discord.gg/NT6CfEnw"
+local DISCORD_INVITE = "https://discord.gg/sVftr5rs"
 
 -- Dragging functionality
 local UIS = game:GetService("UserInputService")
